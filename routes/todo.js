@@ -1,5 +1,4 @@
 const express = require('express');
-const { findByIdAndRemove } = require('../models/todo');
 
 const Todo = require('../models/todo');
 
